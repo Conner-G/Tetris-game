@@ -1,0 +1,8 @@
+﻿  Tetris.cpp
+H:\VS projects\俄罗斯方块\俄罗斯方块\Tetris.cpp(42,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+H:\VS projects\俄罗斯方块\俄罗斯方块\Tetris.cpp(54,7): warning C4101: “data”: 未引用的局部变量
+H:\VS projects\俄罗斯方块\俄罗斯方块\Tetris.cpp(208,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+H:\VS projects\俄罗斯方块\俄罗斯方块\Tetris.cpp(318,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  俄罗斯方块.vcxproj -> H:\VS projects\俄罗斯方块\x64\Debug\俄罗斯方块.exe
